@@ -124,6 +124,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="IsThisACalculator.cpp" />
+    <ClCompile Include="OoohClassy.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="OoohClassy.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
