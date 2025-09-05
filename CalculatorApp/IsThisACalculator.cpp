@@ -16,6 +16,7 @@ int main()
 {
 	cout << "Calculator Console Application" << endl << endl;
 	//I think cout means character output but idk who knows what << means
+	//Oh i actually read stuff and << tells com-pile-er to send whatever is to the right of it to the std!!  
 	cout << "Please enter the operation to perform. Format: a+b | a-b | a*b | a/b" << endl;
 	//This is in english. I wonder what coding in other languages is like
 	return 0;
