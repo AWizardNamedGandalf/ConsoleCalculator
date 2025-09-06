@@ -30,9 +30,6 @@ int main()
 	//Oh i actually read stuff and << tells com-pile-er to send whatever is to the right of it to the std!!  
 	cout << "Please enter the operation to perform. Format: a+b | a-b | a*b | a/b" << endl;
 	//This is in english. I wonder what coding in other languages is like
-<<<<<<< Updated upstream
-=======
-
 
 
 	OoohClassy c;
@@ -43,7 +40,6 @@ int main()
 		cout << "Result " << "of " << x << oper << y << " is: " << result << endl;
 	}
 
->>>>>>> Stashed changes
 	return 0;
 	//That 0 is actually a donut/doughnut, this should return me a doughnut if it works
 
